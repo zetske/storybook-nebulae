@@ -1,0 +1,22 @@
+.boxLayout {
+  text-align: center;
+  justify-content: space-around;
+}
+
+.title {
+  /* font-size: 27.2px; */
+  font-weight: 100;
+  font-family: "Roboto", sans-serif;
+}
+.title span:hover {
+  border-bottom: 1px solid black;
+}
+
+.tag {
+  margin-top: -15px;
+  font-family: "Roboto", sans-serif;
+  line-height: 30px;
+  letter-spacing: 2px;
+  font-size: 15.5px;
+  text-transform: uppercase;
+}

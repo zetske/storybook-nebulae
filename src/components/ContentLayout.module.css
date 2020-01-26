@@ -1,0 +1,19 @@
+.layout {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0 50px;
+  max-width: 1150px;
+}
+
+@media screen and (max-width: 920px) {
+  img {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 920px) {
+  img {
+    width: 400px;
+  }
+}

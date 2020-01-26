@@ -1,0 +1,15 @@
+.button {
+  background-color: rgb(169, 169, 169);
+  font-family: "Roboto", sans-serif;
+  color: whitesmoke;
+  text-transform: uppercase;
+  font-size: 20.8px;
+  font-weight: 200;
+  cursor: pointer;
+  width: 238.797px;
+  text-align: center;
+  align-items: center;
+  padding: 40px 20px;
+  border-radius: 4px;
+  align-items: center;
+}
