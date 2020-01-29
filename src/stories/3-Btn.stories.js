@@ -27,6 +27,18 @@ export function Multiple() {
   );
 }
 
+export function NavButtons() {
+  return (
+    <Flex>
+      <Button buttonTitle="Inspiration" />
+      <Button buttonTitle="Courses" />
+      <Button buttonTitle="Horoscopes" />
+      <Button buttonTitle="Gift Shop" />
+      <Button buttonTitle="Sign Up" />
+    </Flex>
+  );
+}
+
 const StoryForBtn = {
   title: "Button",
   component: Button

@@ -9,7 +9,18 @@
   width: 238.797px;
   text-align: center;
   align-items: center;
-  padding: 40px 20px;
+  padding: 40px 15px;
   border-radius: 4px;
   align-items: center;
+  justify-content: flex-start;
+  grid-gap: 1em;
+  margin: 3px;
+}
+
+@media only screen and (max-width: 650px) and (min-width: 321px){
+  .button {
+    width: 100px;
+    font-size: medium;
+    flex-wrap: wrap;
+  }
 }

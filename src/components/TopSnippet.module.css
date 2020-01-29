@@ -1,0 +1,30 @@
+.topSnippet {
+    width: fit-content;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+.title{
+    font-weight: 300;
+    font-size: 49px;
+    text-align: center;
+}
+
+.tag{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 1.25em;
+    line-height: .9;
+}
+
+.article {
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 300;
+}
+
+.span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
