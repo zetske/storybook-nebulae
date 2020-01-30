@@ -45,6 +45,11 @@
       ]
     ]
   },
+  "files": [	
+    "dist/index.js",	
+    "dist/components/*.js",
+    "dist/components/*.css"
+  ],
   "description": "design system for parenting academy",
   "main": "dist/index.js",
   "repository": "https://github.com/zetske/storybook-nebulae.git",
