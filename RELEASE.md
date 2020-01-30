@@ -1,5 +1,7 @@
 ## Release process
 
+`yarn build`
+
 `yarn auto changelog`
 
 After the command has run, navigate to the CHANGELOG.md file.
