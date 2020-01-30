@@ -1,6 +1,6 @@
 # v0.1.2 (Thu Jan 30 2020)
 
-
+- Created second version with updated package.json files ([@zetske](https://github.com/zetske))
 
 ---
 
