@@ -1,1 +1,1 @@
-export * from './components/Box.js'
+export * from './components/ContentBox.js'

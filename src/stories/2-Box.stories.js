@@ -1,5 +1,5 @@
 import React from "react";
-import ContentBox from "../components/Box";
+import { ContentBox } from "../components/ContentBox";
 
 // Story 1
 export function BoxOne() {

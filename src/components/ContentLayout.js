@@ -1,5 +1,5 @@
 import React from "react";
-import ContentBox from "./Box";
+import { ContentBox } from "./ContentBox";
 import styles from "./ContentLayout.module.css";
 
 class ContentLayout extends React.Component {
