@@ -1,3 +1,16 @@
+# v0.1.4 (Thu Jan 30 2020)
+
+#### ⚠️  Pushed to master
+
+- Add files filter back into package.json  ([@zetske](https://github.com/zetske))
+- Add Release file  ([@zetske](https://github.com/zetske))
+
+#### Authors: 1
+
+- Anzette Muntingh ([@zetske](https://github.com/zetske))
+
+---
+
 # v0.1.3 (Thu Jan 30 2020)
 
 #### ⚠️  Pushed to master
