@@ -1,3 +1,9 @@
+# v0.1.2 (Thu Jan 30 2020)
+
+
+
+---
+
 # v0.1.1 (Thu Jan 30 2020)
 
 - Created first version of the design system, with `Box` component. ([@zetske](https://github.com/zetske))
