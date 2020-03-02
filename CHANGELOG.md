@@ -1,6 +1,11 @@
 # v0.1.6 (Mon Mar 02 2020)
 
+- Export all components  ([@zetske](https://github.com/zetske))
+- Spread props for button component  ([@zetske](https://github.com/zetske))
 
+#### Authors: 1
+
+- Anzette Muntingh ([@zetske](https://github.com/zetske))
 
 ---
 
