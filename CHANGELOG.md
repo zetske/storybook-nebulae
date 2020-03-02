@@ -1,7 +1,5 @@
 # v0.1.7 (Mon Mar 02 2020)
 
-#### ⚠️  Pushed to master
-
 - Update all components to named exports  ([@zetske](https://github.com/zetske))
 
 #### Authors: 1
