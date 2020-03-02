@@ -1,5 +1,5 @@
 import React from "react";
-import ContentLayout from "../components/ContentLayout";
+import { ContentLayout } from "../components/ContentLayout";
 import styles from "../components/ContentLayout.module.css";
 
 const inspireData = [

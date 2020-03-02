@@ -1,5 +1,5 @@
 import React from "react";
-import TopSnippet from "../components/TopSnippet";
+import { TopSnippet } from "../components/TopSnippet";
 import styles from "../components/TopSnippet.module.css";
 
 export function TopSnippetStory() {

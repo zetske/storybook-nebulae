@@ -1,6 +1,6 @@
 import React from "react";
-import Button from "../components/Button";
-import Flex from "../components/Flex";
+import { Button } from "../components/Button";
+import { Flex } from "../components/Flex";
 
 export function Courses() {
   return (

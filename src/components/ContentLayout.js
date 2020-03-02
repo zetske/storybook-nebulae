@@ -2,7 +2,7 @@ import React from "react";
 import { ContentBox } from "./ContentBox";
 import styles from "./ContentLayout.module.css";
 
-class ContentLayout extends React.Component {
+export class ContentLayout extends React.Component {
   render() {
     const { data } = this.props;
     return (
@@ -14,5 +14,3 @@ class ContentLayout extends React.Component {
     );
   }
 }
-
-export default ContentLayout;

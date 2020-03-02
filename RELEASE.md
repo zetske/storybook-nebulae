@@ -1,5 +1,7 @@
 ## Release process
 
+note: before proceeding with these steps, commit and push all changes
+
 `yarn build`
 
 `yarn auto changelog`

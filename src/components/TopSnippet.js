@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./TopSnippet.module.css";
 
-class TopSnippet extends React.Component {
+export class TopSnippet extends React.Component {
   render() {
     const { title, tag, article } = this.props;
     return (
@@ -14,5 +14,3 @@ class TopSnippet extends React.Component {
     );
   }
 }
-
-export default TopSnippet;
