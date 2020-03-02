@@ -1,3 +1,15 @@
+# v0.1.7 (Mon Mar 02 2020)
+
+#### ⚠️  Pushed to master
+
+- Update all components to named exports  ([@zetske](https://github.com/zetske))
+
+#### Authors: 1
+
+- Anzette Muntingh ([@zetske](https://github.com/zetske))
+
+---
+
 # v0.1.6 (Mon Mar 02 2020)
 
 - Export all components  ([@zetske](https://github.com/zetske))
