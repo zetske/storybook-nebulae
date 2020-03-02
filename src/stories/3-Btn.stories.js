@@ -10,6 +10,14 @@ export function Courses() {
   );
 }
 
+export function OnClickTest() {
+  return (
+    <Flex>
+      <Button buttonTitle="Courses" onClick={() => {console.log('onClick')}}/>
+    </Flex>
+  );
+}
+
 export function Inspiration() {
   return (
     <Flex>
