@@ -1,3 +1,9 @@
+# v0.1.6 (Mon Mar 02 2020)
+
+
+
+---
+
 # v0.1.5 (Thu Jan 30 2020)
 
 - Add build step to Release documentation  ([@zetske](https://github.com/zetske))
